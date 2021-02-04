@@ -53,7 +53,7 @@ python manage.py runserver 8080
 
 * 로그인
 
-  ![로그인](images/로그인.gif)
+  ![Alt Text](images/로그인.gif)
 
 
 
