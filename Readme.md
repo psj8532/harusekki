@@ -53,70 +53,69 @@ python manage.py runserver 8080
 
 * 로그인
 
-<div>
-    ![KakaoTalk_20201125_114352987](images/KakaoTalk_20201125_114352987.gif)
-</div>
+  ![로그인](images/로그인.gif)
+
+
 
 
 * 회원가입
 
-<div>
-   ![KakaoTalk_20201125_114352987_01](images/KakaoTalk_20201125_114352987_01.jpg)
-   ![KakaoTalk_20201125_114352987_02](images/KakaoTalk_20201125_114352987_02.jpg)
-   ![KakaoTalk_20201125_114352987_03](images/KakaoTalk_20201125_114352987_03.jpg)
-</div>
+  <img src="images/회원가입-상세정보.jpg" alt="회원가입-상세정보" style="zoom: 25%;" />
+
+  <img src="images/회원가입-성별.jpg" alt="회원가입-성별" style="zoom:25%;" />
+
+  <img src="images/회원가입-아이디.jpg" alt="회원가입-아이디" style="zoom:25%;" />
+
+
 
 
 * 내정보
-<div>
-![KakaoTalk_20201125_114352987_04](images/KakaoTalk_20201125_114352987_04.gif)
-</div>
 
+  <img src="images/드로워-회원정보.gif" alt="드로워-회원정보" style="zoom: 67%;" />
 
 * 메인화면
-<div>
-![KakaoTalk_20201125_114352987_06](images/KakaoTalk_20201125_114352987_06.gif)   
-</div>
 
+  <img src="images/내기록.gif" alt="내기록" style="zoom:67%;" />
 
 * 사진을 분석하여 음식을 검출할 수 있습니다. 검출 못한 음식은 추가 할 수 있습니다.
-<div>
-    ![det](images/det.gif)
-    ![search](images/search.gif)
-    ![추가할데이터영역선택](images/추가할데이터영역선택.gif)
-</div>
+
+  <img src="images/내기록-사진-세부정보1.gif" alt="내기록-사진-세부정보1" style="zoom:67%;" />
+
+  <img src="images/내기록-사진-세부정보2.gif" alt="내기록-사진-세부정보2" style="zoom:67%;" />
+
+  <img src="images/내기록-사진-세부정보3.gif" alt="내기록-사진-세부정보3" style="zoom:67%;" />
 
 
 
 * 기록 / 오늘 먹은 음식의 영양성분 및 칼로리를 확인하고 기록 할 수 있습니다. 
-<div>
-![기록추가](images/기록추가.gif)
-![기록에서영양성분및칼로리확인](images/기록에서영양성분및칼로리확인.gif)
-</div>
+
+  <img src="images/내기록-차트.gif" alt="내기록-차트" style="zoom: 67%;" />
+
+  <img src="images/내기록-사진추가2.gif" alt="내기록-사진추가2" style="zoom:67%;" />
 
 * 기록을 추가 할 때 날짜와 시간대를 설정하세요 
 
-<div>
-    ![날짜변경](images/날짜변경.gif)
-    ![시간추가](images/시간추가.gif)
-    ![달력기능](images/달력기능.gif)
-</div>
+  <img src="images/내기록-사진추가3.gif" alt="내기록-사진추가3" style="zoom:67%;" />
+
+  <img src="images/내기록-사진추가4.gif" alt="내기록-사진추가4" style="zoom:67%;" />
 
 
 
 * 식단을 공유하기 위한 피드 / 다른 사람의 식단을 보고 댓글로 소통하세요
-<div>
-![피드확인좋아요](images/피드확인좋아요.gif)
-![댓글달기](images/댓글달기.gif)
-</div>
+
+  <img src="images/커뮤니티-댓글.gif" alt="커뮤니티-댓글" style="zoom:67%;" />
+
+  <img src="images/커뮤니티-좋아요.gif" alt="커뮤니티-좋아요" style="zoom:67%;" />
 
 * 게시물 등록 시 레시피와 태그를 추가할 수 있습니다.
 
-<div>
-![피드게시물생성](images/피드게시물생성.gif)
-![피드게시물태그추카](images/피드게시물태그추카.gif)
-![레시피추가](images/레시피추가.gif)
-</div>
+  <img src="images/커뮤니티-레시피1.gif" alt="커뮤니티-레시피1" style="zoom:67%;" />
+
+  <img src="images/커뮤니티-레시피2.gif" alt="커뮤니티-레시피2" style="zoom:67%;" />
+
+  <img src="images/커뮤니티-사진선택.gif" alt="커뮤니티-사진선택" style="zoom:67%;" />
+
+  <img src="images/커뮤니티-태그.gif" alt="커뮤니티-태그" style="zoom:67%;" />
 
 ## 🌐 Supported Browsers
 |<img width="40" src="https://simpleicons.org/icons/android.svg" alt="Android">|
@@ -133,7 +132,6 @@ Team: 하루세끼
 * [김성현](https://lab.ssafy.com/tjdgus2319)은 ML 훈련 및 레시피 기능을 도왔습니다.
 * [이솔](https://lab.ssafy.com/tedy55)은 디자인 통합 및 내 기록 기능을 도왔습니다.
 * [이태정](https://lab.ssafy.com/taehee7590)은 시스템 아키텍처 및 추천페이지를 도왔습니다.
-
 
 ***
 ## 📜 License
